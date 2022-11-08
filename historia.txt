@@ -1,0 +1,12 @@
+Este es un trabajo de historia.
+
+y esta va a ser mi historia.
+
+Esta es la prueba donde se va a hacer la rama
+<<<<<<< HEAD
+una rama donde no se va a mostrar en el master.
+
+
+
+
+ESTA ES UNA LINEA QUE ESTA HECHA EN MASTER.
