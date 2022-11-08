@@ -1,0 +1,25 @@
+body{
+    font-style: arial;
+    font-size: 28px;
+    margin:1rem;
+}
+
+.padre{
+    display: flex;
+    justify-content: center;
+}
+
+.cabecera{
+    background-color: azure;
+    max-width: 1400px;
+    text-align: center;
+    border: 3px solid pink;
+}
+
+.cabecera h1{
+    color: rgb(45, 209, 154);
+}
+
+.cabecera p{
+    color: rgb(65, 168, 168);
+}
