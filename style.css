@@ -23,3 +23,16 @@ body{
 .cabecera p{
     color: rgb(65, 168, 168);
 }
+
+#foot{
+    font-size: 14px;
+    color: rgba(75, 186, 149, 0.797);
+    font-style: normal;
+    text-align: center;
+    border: 1.5px solid pink;
+    margin: 2rem 0 0 0;
+    border-radius: 4px;
+    background-color: azure;
+    box-shadow: 2px 2px pink;
+    
+}
